@@ -1,15 +1,23 @@
-# juniorze.github.io
+# Junior Silva — Personal Site
 
-Site pessoal estático de Junior Silva.
+Site estático pronto para GitHub Pages.
 
-## Publicação no GitHub Pages
+## Publicação
 
-1. Crie um repositório chamado exatamente `juniorze.github.io`.
+1. Crie um repositório chamado `juniorze.github.io`.
 2. Envie estes arquivos para a raiz do repositório:
    - `index.html`
    - `styles.css`
    - `script.js`
-3. No GitHub, vá em Settings > Pages.
-4. Em Source, selecione `Deploy from a branch`.
-5. Selecione branch `main` e pasta `/root`.
-6. Acesse: https://juniorze.github.io/
+   - `README.md`
+3. No GitHub, acesse Settings → Pages.
+4. Source: Deploy from a branch.
+5. Branch: `main` / root.
+6. Acesse: `https://juniorze.github.io/`.
+
+## Identidade visual
+
+- Tema grafite escuro.
+- Minimalista, moderno e corporativo.
+- Foco em SRE, Change Management, automação e IA.
+- Sem exposição de projetos privados.
